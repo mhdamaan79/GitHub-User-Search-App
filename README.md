@@ -1,4 +1,6 @@
-## Github User Search App
+![Screenshot 2024-02-13 ](https://github.com/mhdamaan79/GitHub-User-Search-App/assets/118375524/0c6ff761-cdf7-4d59-8574-c586ba12d577)
+
+## 👥 Github User Search App 🔍
 
 **DevFinder** is a basic web application that utilizes the GitHub API to retrieve user profile data such as name, join date, location, company, profile URL, social media links, repositories, followers, and following. Additionally, it features dark and light theme functionality for user preference customization.
 
