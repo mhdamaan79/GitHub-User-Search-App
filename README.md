@@ -27,7 +27,7 @@
 
 DevFinder is a simple yet effective web application designed to provide users with easy access to GitHub user profile data while offering customizable theme options for enhanced user experience.
 
-## 📌 Live Site URL: <a href="https://github-user-search-app-79.netlify.app/">**Visit Now** 🚀</a>
+## 📌 Live Site URL: <a href="https://github-user-search-web-app-79.netlify.app/">**Visit Now** 🚀</a>
 
 ## 📬 Connect With Me
 
